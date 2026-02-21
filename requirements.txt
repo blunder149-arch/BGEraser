@@ -1,0 +1,7 @@
+flask>=3.0.0
+rembg[cpu]>=2.0.68
+Pillow>=10.2.0
+Werkzeug>=3.0.1
+gunicorn
+onnxruntime
+numpy

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -39,3 +40,40 @@ database.db
 
 # AI Models
 models/
+=======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Uploads
+uploads/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+>>>>>>> 629bba4986429f2b38923f3a1fe933ccf0a1c15e
